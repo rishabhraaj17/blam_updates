@@ -1,0 +1,8 @@
+prefix=/home/rish/blam/internal/devel
+
+Name: pose_graph_msgs
+Description: Description of pose_graph_msgs
+Version: 0.0.1
+Cflags: -I/home/rish/blam/internal/devel/include
+Libs: -L/home/rish/blam/internal/devel/lib 
+Requires: message_runtime std_msgs geometry_msgs sensor_msgs

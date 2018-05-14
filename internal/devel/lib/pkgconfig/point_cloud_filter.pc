@@ -1,0 +1,8 @@
+prefix=/home/rish/blam/internal/devel
+
+Name: point_cloud_filter
+Description: Description of point_cloud_filter
+Version: 0.0.0
+Cflags: -I/home/rish/blam/internal/src/point_cloud_filter/include
+Libs: -L/home/rish/blam/internal/devel/lib -lpoint_cloud_filter
+Requires: roscpp parameter_utils pcl_ros

@@ -1,0 +1,2 @@
+
+-DCMAKE_BUILD_TYPE=Release -DBOOST_ROOT=/usr/include -DBOOST_LIBRARYDIR=/usr/lib/x86_64-linux-gnu -G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/rish/blam/external/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/rish/blam/external/install_isolated

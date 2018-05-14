@@ -1,0 +1,8 @@
+prefix=/home/rish/blam/internal/install
+
+Name: geometry_utils
+Description: Description of geometry_utils
+Version: 0.0.9
+Cflags: -I/home/rish/blam/internal/install/include -I/usr/include/eigen3
+Libs: -L/home/rish/blam/internal/install/lib 
+Requires: 
